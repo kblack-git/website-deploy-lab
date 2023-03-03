@@ -1,4 +1,15 @@
 #header {
     justify-items: center;
     text-align: center;
+    background-color: beige;
 }
+h2 {
+    padding-bottom:10px;
+    text-decoration: underline;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 1.5;
+}
+]
